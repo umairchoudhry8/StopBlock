@@ -11,7 +11,7 @@ The StopBlock is a Python application designed to monitor and assess the conditi
 
 ## Introduction
 
-The Culvert Monitoring System comprises several components and functionalities:
+The Culvert Monitoring System comprises several components and functionalities listed as follows:
 
 - **Camera Initialization**: The system initializes and powers on the camera for capturing images of the culvert.
 
